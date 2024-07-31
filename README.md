@@ -1,4 +1,4 @@
 # NLIE-UNet
 ## The code is coming soon……
-UNet with dynamic neighboring layer interleaving enhancement for medical image segmentation
+NLIE-UNet: A Dynamic Neighbourhood Layer Interwoven Enhanced UNet for Medical Image Segmentation
 
