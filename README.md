@@ -5,9 +5,10 @@ While Convolutional Neural Networks (CNNs), particularly UNet and its variants, 
 <img width="697" alt="image" src="https://github.com/user-attachments/assets/22adc429-30c8-4e7e-a745-bc94cc0f2abd">；
 ## Environment
 Our code framework is based on UNeXt；
+
 To install all the dependencies using conda:
-### conda env create -f environment.yml
-### conda activate NLIE_UNet
+conda env create -f environment.yml
+conda activate NLIE_UNet
 ## Datasets
 BUSI: https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
 CVC-ClinicDB: https://polyp.grand-challenge.org/CVCClinicDB/
