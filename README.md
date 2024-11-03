@@ -11,8 +11,14 @@ To install all the dependencies using conda:
 conda env create -f environment.yml
 conda activate NLIE_UNet
 ## Datasets
+
 BUSI: https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
+
 CVC-ClinicDB: https://polyp.grand-challenge.org/CVCClinicDB/
+
 Kvasir-SEG: https://datasets.simula.no/kvasir-seg/
+
 GlaS: https://github.com/McGregorWwww/UCTransNet/
+
 2018 DSB: https://www.kaggle.com/c/data-science-bowl-2018/
+
