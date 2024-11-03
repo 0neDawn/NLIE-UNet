@@ -10,6 +10,15 @@ To install all the dependencies using conda:
 
 conda env create -f environment.yml
 conda activate NLIE_UNet
+
+If you prefer pip, install following versions:
+
+timm==0.3.2
+mmcv-full==1.2.7
+torch==1.7.1
+torchvision==0.8.2
+opencv-python==4.5.1.48
+
 ## Datasets
 
 BUSI: https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
