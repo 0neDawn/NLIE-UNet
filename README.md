@@ -30,13 +30,13 @@ opencv-python==4.5.1.48
 ```
 
 ## Datasets
-1.BUSI-[Link](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
+1. BUSI-[Link](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
 
-2.CVC-ClinicDB-[Link](https://polyp.grand-challenge.org/CVCClinicDB/)
+2. CVC-ClinicDB-[Link](https://polyp.grand-challenge.org/CVCClinicDB/)
 
-3.Kvasir-SEG-[Link](https://datasets.simula.no/kvasir-seg/)
+3. Kvasir-SEG-[Link](https://datasets.simula.no/kvasir-seg/)
 
-4.GlaS-[Link](https://websignon.warwick.ac.uk/origin/slogin?shire=https%3A%2F%2Fwarwick.ac.uk%2Fsitebuilder2%2Fshire-read&providerId=urn%3Awarwick.ac.uk%3Asitebuilder2%3Aread%3Aservice&target=https%3A%2F%2Fwarwick.ac.uk%2Ffac%2Fcross_fac%2Ftia%2Fdata%2Fglascontest&status=notloggedin)
+4. GlaS-[Link](https://websignon.warwick.ac.uk/origin/slogin?shire=https%3A%2F%2Fwarwick.ac.uk%2Fsitebuilder2%2Fshire-read&providerId=urn%3Awarwick.ac.uk%3Asitebuilder2%3Aread%3Aservice&target=https%3A%2F%2Fwarwick.ac.uk%2Ffac%2Fcross_fac%2Ftia%2Fdata%2Fglascontest&status=notloggedin)
 
-5.2018 DSB-[Link](https://www.kaggle.com/c/data-science-bowl-2018/)
+5. 2018 DSB-[Link](https://www.kaggle.com/c/data-science-bowl-2018/)
 
